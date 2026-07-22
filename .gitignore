@@ -1,0 +1,8 @@
+venv/
+*.pt
+*.mp4
+*.mov
+*.npz
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

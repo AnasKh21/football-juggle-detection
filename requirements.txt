@@ -1,0 +1,11 @@
+# Python 3.12 is required.
+# On Intel Macs, PyTorch has no build for Python 3.13, and torch 2.2.2 is the
+# last version with an Intel Mac build, which is why the versions are pinned.
+ultralytics==8.4.103
+torch==2.2.2
+torchvision==0.17.2
+numpy==1.26.4
+scipy==1.13.1
+matplotlib
+notebook
+ipykernel
